@@ -43,5 +43,6 @@ Para incluir referencias a links crearemos un tag de la siguiente forma:
 ### Tablas
 Para la creación de una página web, es imprescindible el empleo de tablas como veremos más adelante. Aunque la primera página web no incluya tablas veremos el siguiente ejemplo:
 Para iniciar la tabla emplearemos el TAG *table* y en las primeras filas definiremos los espacios y bordes. Cada fila vendrá definida por el TAG *tr *. Después los títulos de la tabla se definirán mediante el TAG *th* y el contenido por *td*. Véase el ejemplo.
+
 ![Alt text](tabla_HTML.png)
 
