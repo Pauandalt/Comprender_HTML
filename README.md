@@ -31,7 +31,7 @@ El operador *body* da paso al cuerpo de la página web. Aquí escribiremos lo qu
 
 El operador h a su vez, indica título (headline) y va ordenado desde el 1 hasta el 6. En este caso hemos establecido h1 como título. Véase el ejemplo:
  
-![Alt text](Body_HTML.PNG)
+![Alt text](body.png)
  
 Por otro lado, el operador p se emplea para definir un párrafo. Cuando queramos empezarlo emplearemos el comando p y terminarlo /p. Así el buscador representará los párrafos de manera automática.
  
