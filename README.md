@@ -38,6 +38,7 @@ Por otro lado, el operador p se emplea para definir un párrafo. Cuando queramos
 ![Alt text]() 
 
 Para incluir referencias a links crearemos un tag de la siguiente forma:
+
  ![Alt text]() 
  
 ### Tablas
