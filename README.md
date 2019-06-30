@@ -17,3 +17,31 @@ Es importante saber que el lenguaje HTML es un lenguaje completamente anidado. E
 Para leer el fichero .html que existe tras una página web, en nuestro caso tras la [primera página web]() , pulsaremos el botón derecho de nuestro ratón y clicaremos en la pestaña de *inspect*. Esto abrirá una ventana de comandos que analizaremos a continuación.
 
 ![alt text]( Foto_Ispect_HTML.png)
+
+### HEAD
+El operador head, da nombre a la pestaña que queremos crear. De esta manera, no creará nada en el documento más que el título de la misma en la parte superior del buscador. Véase el ejemplo:
+
+![alt text]()
+
+Busque en la [primera página web](http://info.cern.ch/hypertext/WWW/WhatIs.html) el *head* correspondiente.
+
+### BODY
+
+El operador *body* da paso al cuerpo de la página web. Aquí escribiremos lo que deseamos que se vea en nuestra página.
+
+El operador h a su vez, indica título (headline) y va ordenado desde el 1 hasta el 6. En este caso hemos establecido h1 como título. Véase el ejemplo:
+ 
+![Alt text]() 
+ 
+Por otro lado, el operador p se emplea para definir un párrafo. Cuando queramos empezarlo emplearemos el comando p y terminarlo /p. Así el buscador representará los párrafos de manera automática.
+ 
+![Alt text]() 
+
+Para incluir referencias a links crearemos un tag de la siguiente forma:
+ ![Alt text]() 
+ 
+### Tablas
+Para la creación de una página web, es imprescindible el empleo de tablas como veremos más adelante. Aunque la primera página web no incluya tablas veremos el siguiente ejemplo:
+Para iniciar la tabla emplearemos el TAG *table* y en las primeras filas definiremos los espacios y bordes. Cada fila vendrá definida por el TAG *tr *. Después los títulos de la tabla se definirán mediante el TAG *th* y el contenido por *td*. Véase el ejemplo.
+![Alt text](tabla_HTML.png)
+
