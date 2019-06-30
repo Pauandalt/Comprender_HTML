@@ -21,7 +21,7 @@ Para leer el fichero .html que existe tras una página web, en nuestro caso tras
 ### HEAD
 El operador head, da nombre a la pestaña que queremos crear. De esta manera, no creará nada en el documento más que el título de la misma en la parte superior del buscador. Véase el ejemplo:
 
-![alt text]()
+![alt text](Head_HTML.png)
 
 Busque en la [primera página web](http://info.cern.ch/hypertext/WWW/WhatIs.html) el *head* correspondiente.
 
@@ -31,15 +31,15 @@ El operador *body* da paso al cuerpo de la página web. Aquí escribiremos lo qu
 
 El operador h a su vez, indica título (headline) y va ordenado desde el 1 hasta el 6. En este caso hemos establecido h1 como título. Véase el ejemplo:
  
-![Alt text]() 
+![Alt text](Body_HTML.PNG)
  
 Por otro lado, el operador p se emplea para definir un párrafo. Cuando queramos empezarlo emplearemos el comando p y terminarlo /p. Así el buscador representará los párrafos de manera automática.
  
-![Alt text]() 
+![Alt text](Parrafo_HTML.png)
 
 Para incluir referencias a links crearemos un tag de la siguiente forma:
 
- ![Alt text]() 
+ ![Alt text](Links.png) 
  
 ### Tablas
 Para la creación de una página web, es imprescindible el empleo de tablas como veremos más adelante. Aunque la primera página web no incluya tablas veremos el siguiente ejemplo:
