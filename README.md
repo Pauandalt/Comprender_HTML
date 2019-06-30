@@ -16,7 +16,7 @@ Es importante saber que el lenguaje HTML es un lenguaje completamente anidado. E
 
 Para leer el fichero .html que existe tras una página web, en nuestro caso tras la [primera página web]() , pulsaremos el botón derecho de nuestro ratón y clicaremos en la pestaña de *inspect*. Esto abrirá una ventana de comandos que analizaremos a continuación.
 
-![alt text]( Foto_Ispect_HTML.png)
+![alt text]( Foto_Ispect_HTML.PNG)
 
 ### HEAD
 El operador head, da nombre a la pestaña que queremos crear. De esta manera, no creará nada en el documento más que el título de la misma en la parte superior del buscador. Véase el ejemplo:
@@ -45,5 +45,5 @@ Para incluir referencias a links crearemos un tag de la siguiente forma:
 Para la creación de una página web, es imprescindible el empleo de tablas como veremos más adelante. Aunque la primera página web no incluya tablas veremos el siguiente ejemplo:
 Para iniciar la tabla emplearemos el TAG *table* y en las primeras filas definiremos los espacios y bordes. Cada fila vendrá definida por el TAG *tr *. Después los títulos de la tabla se definirán mediante el TAG *th* y el contenido por *td*. Véase el ejemplo.
 
-![Alt text](tabla_HTML.png)
+![Alt text](tabla_HTML.PNG)
 
