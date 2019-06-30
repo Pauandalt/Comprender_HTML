@@ -1,5 +1,6 @@
 # COMPRENDER EL LENGUAJE HTML TRAS LAS PÁGINAS WEB
 
+# Html
 ## Introducción
 HTML (HyperText Markup Language) es el primer lenguaje que una persona debe conocer si desea comenzar a realizar páginas web. HTML no es un lenguaje de programación, sino un lenguaje descriptivo, una serie de etiquetas que el navegador interpretará de una u otra forma para mostrar distintos contenidos por pantalla.
 
@@ -46,4 +47,33 @@ Para la creación de una página web, es imprescindible el empleo de tablas como
 Para iniciar la tabla emplearemos el TAG *table* y en las primeras filas definiremos los espacios y bordes. Cada fila vendrá definida por el TAG *tr *. Después los títulos de la tabla se definirán mediante el TAG *th* y el contenido por *td*. Véase el ejemplo.
 
 ![alt text](Tablas_HTML.PNG)
+
+### Apendice
+
+Esto es tan solo una formación básica en html. Existen miles de manera de programar y por tanto no merece la pena conocerlas todas. Todo programador puede acudir a páginas web como https://www.w3schools.com/html/ donde se exponen múltiples usos y ejemplos de diferentes TAGs. De esta manera el programador tan solo tiene que copiar el código y adaptarlo a sus necesidades.
+
+# CSS
+
+El css es una herramienta que permite configurar la visualización de las páginas web. En este curso tan solo la mencionaremos por encima pero para comprender su uso es importante resaltar que toda página web está organizada como si fuera una tabla. El Css es la herramienta que emplea el programdor para adaptar esta tabla a sus necesidades, variando el tamaño, espacio, color, etc  de cada caja. 
+
+Para obtener una idea superficial, abriremos el siguiente link:
+
++ [CSS ZEN GARDEN](http://www.csszengarden.com/)
+
+ Esta página web, nos muestra como trabaja el CSS. La página alberga un mismo fichero html, pero sin embargo el CSS ha cambiado la forma de exponerselo al usuario.
+ 
+
+ 
+Clicando con el botón derecho, abriremos la pestaña de ispeccionar en el apartado que se desee dentro de la página del CSS Zen Garden. Una vez abierta la pestaña, para realizar la práctica de manera muy sencilla el alumno tan solo necesita hacer dos cambios:
+
++ cambie el color de una de las capas de la caja como se indica en la figura:
+
+![Alt text](Cambio_de_fondo.PNG)
+
++ cambie el tamaño de letra como se indica en la figura:
+
+![Alt text](Cambio_de_tamaño.PNG)
+
+
+
 
