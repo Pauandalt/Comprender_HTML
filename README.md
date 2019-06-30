@@ -54,17 +54,15 @@ Esto es tan solo una formación básica en html. Existen miles de manera de prog
 
 # CSS
 
-El css es una herramienta que permite configurar la visualización de las páginas web. En este curso tan solo la mencionaremos por encima pero para comprender su uso es importante resaltar que toda página web está organizada como si fuera una tabla. El Css es la herramienta que emplea el programdor para adaptar esta tabla a sus necesidades, variando el tamaño, espacio, color, etc  de cada caja. 
+El css es una herramienta que permite configurar la visualización de las páginas web. En este curso tan solo la mencionaremos por encima pero para comprender su uso es importante resaltar que toda página web está organizada como si fuera una tabla. El Css es la herramienta que emplea el programador para adaptar esta tabla a sus necesidades, variando el tamaño, espacio, color, etc  de cada caja. 
 
 Para obtener una idea superficial, abriremos el siguiente link:
 
 + [CSS ZEN GARDEN](http://www.csszengarden.com/)
 
- Esta página web, nos muestra como trabaja el CSS. La página alberga un mismo fichero html, pero sin embargo el CSS ha cambiado la forma de exponerselo al usuario.
+ Esta página web, nos muestra cómo trabaja el CSS. La página alberga un mismo fichero html, pero sin embargo el CSS ha cambiado la forma de exponérselo al usuario.
  
-
- 
-Clicando con el botón derecho, abriremos la pestaña de ispeccionar en el apartado que se desee dentro de la página del CSS Zen Garden. Una vez abierta la pestaña, para realizar la práctica de manera muy sencilla el alumno tan solo necesita hacer dos cambios:
+Clicando con el botón derecho, abriremos la pestaña de inspeccionar en el apartado que se desee dentro de la página del CSS Zen Garden. Una vez abierta la pestaña, para realizar la práctica de manera muy sencilla el alumno tan solo necesita hacer dos cambios:
 
 + cambie el color de una de las capas de la caja como se indica en la figura:
 
